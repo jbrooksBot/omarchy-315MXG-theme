@@ -21,7 +21,7 @@ omarchy theme set 315mxg
 If hosted on GitHub:
 
 ```bash
-omarchy theme install https://github.com/REPLACE_WITH_USERNAME/omarchy-315MXG-theme.git
+omarchy theme install https://github.com/jbrooksBot/omarchy-315MXG-theme.git
 omarchy theme set 315mxg
 ```
 
