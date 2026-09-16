@@ -50,10 +50,19 @@ omarchy theme set 315mxg
 
 ---
 
-## 🖼️ Included Wallpaper
+## 🖼️ Included Wallpapers
 
 Stored in `backgrounds/`:
-* **`1-clean-315-mxg-desktop.png`** — Clean desktop composition featuring the MultiCam camouflage fabric, the embroidered 315th Maintenance Group unit crest, the Charleston SC tail flash patch, the C-17 Globemaster III aircraft, and the maintainer's combination wrench.
+1. **`1-clean-315-mxg-desktop.png`** — Original clean flatlay with MultiCam OCP camouflage, embroidered 315th Maintenance Group emblem, Charleston tail flash patch, C-17 aircraft, and maintainer's wrench.
+2. **`2-flightline-night-maintenance.jpg`** — Twilight flightline maintenance at Joint Base Charleston: C-17 turbofan engine inspection with floodlights, tool chests, and maintainer crew.
+3. **`3-c17-charleston-sunset.jpg`** — Golden hour aerial view of a C-17 Globemaster III banking over ocean cloud banks with the Charleston tail flash gleaming in the sunset.
+4. **`4-315mxg-hangar-inspection.jpg`** — Inside the 315th Maintenance Group heavy hangar facility with multi-level yellow/blue docking stands, diagnostic stations, and LED floodlights.
+5. **`5-c17-runway-headon.jpg`** — Gritty low-angle frontal shot of a C-17 taxiing on the runway under dramatic storm clouds with engine heat haze.
+
+Cycle between them anytime in Omarchy with:
+```bash
+omarchy theme bg next
+```
 
 ---
 
