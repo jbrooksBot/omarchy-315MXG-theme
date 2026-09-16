@@ -58,6 +58,7 @@ Stored in `backgrounds/`:
 3. **`3-c17-charleston-sunset.jpg`** — Golden hour aerial view of a C-17 Globemaster III banking over ocean cloud banks with the Charleston tail flash gleaming in the sunset.
 4. **`4-315mxg-hangar-inspection.jpg`** — Inside the 315th Maintenance Group heavy hangar facility with multi-level yellow/blue docking stands, diagnostic stations, and LED floodlights.
 5. **`5-c17-runway-headon.jpg`** — Gritty low-angle frontal shot of a C-17 taxiing on the runway under dramatic storm clouds with engine heat haze.
+6. **`6-315mxg-patch-coyote-brown.jpg`** — Minimalist macro composition featuring the authentic embroidered 315th Maintenance Group cloth unit patch centered on a textured coyote brown ripstop fabric surface.
 
 Cycle between them anytime in Omarchy with:
 ```bash
